@@ -1,0 +1,14 @@
+{
+  "name": "firstproject",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon src/index.js"
+  },
+  "author": "yo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
