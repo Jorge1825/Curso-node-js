@@ -18,7 +18,7 @@ fs.writeFileSync('./data/third.txt', 'Hello from Node.js',{flag: 'a'}); //flag: 
 
 //funciones async
 
-fs.readFile('./data/fist.txt', 'utf-8', (error, data) => {
+fs.readFile('./src/data/third.txt', 'utf-8', (error, data) => {
     if (error) {
         console.log(error);
     }else{

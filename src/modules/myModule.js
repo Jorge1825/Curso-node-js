@@ -17,6 +17,5 @@ const group = {
 
 //exportar contenido 
 module.exports = group;
-
 module.exports.number = myNumber;
 
